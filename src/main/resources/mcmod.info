@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Snappy Tappy",
+    "description": "Adds Snap-Tap/Snappy-Tappy to the game.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://youtube.com/xItsSunny",
+    "updateUrl": "",
+    "authorList": [
+      "xItsSunny"
+    ],
+    "credits": "",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
